@@ -6,7 +6,7 @@
 var correct = 0;
 var unanswered = 0;
 var incorrect = 0;
-var timer = 10;
+var timer = 30;
 var countDown;
 
 
