@@ -1,0 +1,122 @@
+body{
+background-image: url("andy.jpg");
+background-size: 50%;
+font-family: 'Raleway', sans-serif;
+letter-spacing: 2px;
+}
+
+
+
+h1 {
+padding: 10px;
+text-align: center;
+margin-top: 50px;
+font-size: 3em;
+color:#ffffff;
+
+
+}
+
+.display{
+background: #de1e1e;
+padding: 10px;
+text-align: center;
+margin: 0 auto;
+width:75%;
+margin-top: 90px;
+font-size: 1.2em;
+
+/*#de1e1e*/
+}
+
+#wrapper{
+	display: none;
+
+
+
+
+}
+
+.class{
+display: none;
+
+}
+
+
+#start{
+background: #996515;
+color: #ffffff;
+padding: 10px;
+text-align: center;
+height: 20%;
+width: 20%;
+margin: 0 auto;
+margin-top: 50px;
+font-size: 1.2em;
+
+
+}
+
+
+.container{
+background: #ffffff;
+border: 4px solid #996515;
+width: 75%;
+margin-bottom: 50px;
+
+}
+
+#question{
+padding: 10px;
+text-align: center;
+margin-top: 40px;
+font-size: 1em;
+
+
+
+
+
+}
+
+
+#counter{
+display: none;
+padding: 10px;
+text-align: center;
+margin-top: 40px;
+font-size: 1.2em;
+color: #ffffff;
+
+
+}
+
+
+#count-down{
+padding: 10px;
+text-align: center;
+height: 15%;
+width: 15%;
+margin: 0 auto;
+margin-top: 20px;
+font-size: 3em;
+color: #ffffff;
+
+}
+
+
+#submit{
+background: #996515;
+color:#ffffff;
+padding: 10px;
+text-align: center;
+height: 15%;
+width: 15%;
+margin: 50px auto;
+margin-bottom: 50px;
+font-size: 1.2em;
+
+
+
+
+
+}
